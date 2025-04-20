@@ -8,6 +8,8 @@ Assumption
 Note that we are only working off of accidnet/incident data.  This does not account for the amount of total flights that a particular Make/Model have in a given year which can provide more detail into the actual sustainability into the plane.  But based off the crash data given, below are the thoughts and recommendations.
 
 
+Got data in last 40 years.  So pulled anything with an event after 1/1/1985 (module said 1983, but i think it is a few years old)
+
 Only included airplanes where amatuer build = No
 
 Total passengers = serious + Fatal + Minor + Uninjured
